@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "hollow-knight-silksong",
+    "title": "Hollow Knight: Silksong",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "Team Cherry",
+    "description": "Discover a vast, haunted kingdom in Hollow Knight: Silksong! Explore, fight and survive as you ascend to the peak of a land ruled by silk and song.",
+    "tags": [
+      "Metroidvania",
+      "Difficult",
+      "Platformer",
+      "Action",
+      "Atmospheric",
+      "Indie",
+      "Exploration"
+    ],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 2083561961,
+    "thumbnail": "/thumbs/obsidian/hollow-knight-silksong.webp"
+  }
+]
